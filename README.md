@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on optimizing collection routes for large waste and recycling trucks operated under UC Berkeley Zero Waste. The goal is to improve operational efficiency, reduce fuel consumption, and enhance service reliability across campus waste-management operations.
+This project focuses on optimizing collection routes for large waste and recycling trucks operated under [UC Berkeley Zero Waste](https://sustainability.berkeley.edu/engage/zero-waste). The goal is to improve operational efficiency, reduce fuel consumption, and enhance service reliability across campus waste-management operations.
 
 By analyzing historical collection data, bin fill levels, travel times, and geographic service zones, this project identifies inefficiencies in current routing practices and develops data-driven, optimized routes that minimize unnecessary travel and missed efficiencies.
 
