@@ -6,7 +6,7 @@ This project focuses on optimizing collection routes for large waste and recycli
 
 By analyzing historical collection data, bin fill levels, travel times, and geographic service zones, this project identifies inefficiencies in current routing practices and develops data-driven, optimized routes that minimize unnecessary travel and missed efficiencies.
 
-This project is completed as part of IND ENG 180: Senior Project at the University of California, Berkeley.
+This project is completed as part of IND ENG 180: Senior Project at the University of California, Berkeley. This project is being built by Addie Brandt, Nate Frank, Manuel Martinez Garcia, and Rose Valencia.
 
 ## Objectives
 
